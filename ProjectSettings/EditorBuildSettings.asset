@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/__Scenes/MainMenu.unity
+    guid: 1a70ed451c3d3ce4f9158bbf31aef185
+  - enabled: 1
+    path: Assets/__Scenes/TheStory.unity
+    guid: f4046319560ea3a4ea0358cc6ba1e9a6
+  - enabled: 1
+    path: Assets/__Scenes/Options.unity
+    guid: c7ae09daa324aaf4989eb778c116989a
+  - enabled: 1
+    path: Assets/__Scenes/Controls.unity
+    guid: 5062e6c707fd6174aa7e46dd75cf12c5
+  - enabled: 1
+    path: Assets/__Scenes/IntroLevel.unity
+    guid: b00ddf80934c7d34d908cc24a9169d01
+  - enabled: 1
+    path: Assets/__Scenes/Level1.unity
+    guid: 146b15179d0e88b44a37c68516a7148c
+  - enabled: 1
+    path: Assets/__Scenes/Level2.unity
+    guid: c568ce6f06c711340b61bd902bf92815
+  - enabled: 1
+    path: Assets/__Scenes/Level3.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/__Scenes/Level4.unity
+    guid: db83c843ff02a57489bb17d30efb5101
+  - enabled: 1
+    path: Assets/__Scenes/Utopia.unity
+    guid: e442ca76200ae2b4dbf271b57f29b76f
+  - enabled: 1
+    path: Assets/__Scenes/Wife.unity
+    guid: c89654b4bf3f0b542ac2653969c8ccd9
+  - enabled: 1
+    path: Assets/__Scenes/PauseMenu.unity
+    guid: c80e27df14c2a084fab15f03656dc132
+  m_configObjects: {}
